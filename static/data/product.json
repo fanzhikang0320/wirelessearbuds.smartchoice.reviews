@@ -1,0 +1,99 @@
+{
+    "websiteName": "Wireless Earbuds",
+    "baseScore": ["9.8","9.5","9.2","9.0","8.8","8.5"],
+    "data": [
+        {
+            "name": "Dangobuds",
+            "picture": "/data/img/Dangobuds.png",
+            "link": "https://www.frnchsprkl.com/7QLQCMW/67Q52PJ/?uid=10896",
+            "reviewLink": "",
+            "buys": 586,
+            "strengthList": [
+                {
+                    "text": "Seamless crystal-clear sound with Active Noise Cancelling"
+                },
+                {
+                    "text": "Fast charging on the go"
+                },
+                {
+                    "text": "Great comfort and fit"
+                },
+                {
+                    "text": "Amazing battery life"
+                },
+                {
+                    "text": "Sync instantly to any device: Android, iOS, and more"
+                },
+                {
+                    "text": "One-touch functionality"
+                }
+            ],
+            "weaknessList": []
+        },
+        {
+            "name": "Wireless Air pods",
+            "picture": "/data/img/Wireless-air-pods.png",
+            "link": "https://www.premiumwirelessearbuds.com/v1/",
+            "reviewLink": "",
+            "buys": 586,
+            "strengthList": [
+                {
+                    "text": "Super good sound quality"
+                },
+                {
+                    "text": "One-key operation"
+                },
+                {
+                    "text": "Good Fit for workouts"
+                },
+                {
+                    "text": "Only need to pay shipping fee"
+                }
+            ],
+            "weaknessList": []
+        },
+        {
+            "name": "Gear Airbuds",
+            "picture": "/data/img/Gear-Airbuds.png",
+            "link": "https://gearairbuds.com/?widipub_id=5f07f06db7bb81096719fce3&wtrd_offer_id=5f8db961c56b1123e3585dc2&wtrd_offer_lids=5f8db9da54fec90b32623cf3",
+            "reviewLink": "",
+            "buys": 586,
+            "strengthList": [
+                {
+                    "text": "15-metres bluetooth connection"
+                },
+                {
+                    "text": "High qualitysound"
+                },
+                {
+                    "text": "Multi-function touch panel"
+                },
+                {
+                    "text": "Battery life: up to 5 hours"
+                }
+            ],
+            "weaknessList": []
+        },
+        {
+            "name": "Airpods",
+            "picture": "/data/img/Airpods.png",
+            "link": "https://www.apple.com/",
+            "reviewLink": "",
+            "buys": 586,
+            "strengthList": [
+                {
+                    "text": "OK sound quality"
+                },
+                {
+                    "text": "Great brand reputation"
+                },
+                {
+                    "text": "Work well with iPhones"
+                }
+            ],
+            "weaknessList": []
+        }
+        
+    ]
+}
+
